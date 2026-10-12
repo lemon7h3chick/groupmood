@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated application results
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
