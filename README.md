@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python groupmodd.py path/to/group_photo.jpg
+python groupmood.py path/to/group_photo.jpg
 ```
 
 Add `--show` to display the result windows. Press any key in a result window to close it.
